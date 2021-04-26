@@ -14,3 +14,11 @@
 *  Conditional Statement
 *  Functions
 *  For and While Loop
+
+
+## Day-2
+
+* Functions as Arguments
+
+![image](https://user-images.githubusercontent.com/46487696/116119353-f8f84180-a6db-11eb-8828-b09b49a1a154.png)
+![6](https://user-images.githubusercontent.com/46487696/116119491-204f0e80-a6dc-11eb-8c98-e55ca09b97a9.png)
