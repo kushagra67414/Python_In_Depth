@@ -34,3 +34,13 @@
 ![8](https://user-images.githubusercontent.com/46487696/116128634-c43db780-a6e6-11eb-8054-52b3fff0ce40.png)
 ![7](https://user-images.githubusercontent.com/46487696/116128638-c4d64e00-a6e6-11eb-8ed4-8d7a90d5660a.png)
 
+
+
+* Tuple
+  * tuple to changeable list
+  * len()
+  * and much more
+
+![13 T to L](https://user-images.githubusercontent.com/46487696/116132611-5d6ecd00-a6eb-11eb-9537-3bffb1734c8c.png)
+![12](https://user-images.githubusercontent.com/46487696/116132616-5e9ffa00-a6eb-11eb-891a-4a945399818f.png)
+![11](https://user-images.githubusercontent.com/46487696/116132619-5f389080-a6eb-11eb-9c35-e0f4775a1251.png)
