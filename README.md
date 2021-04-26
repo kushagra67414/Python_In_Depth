@@ -44,3 +44,19 @@
 ![13 T to L](https://user-images.githubusercontent.com/46487696/116132611-5d6ecd00-a6eb-11eb-9537-3bffb1734c8c.png)
 ![12](https://user-images.githubusercontent.com/46487696/116132616-5e9ffa00-a6eb-11eb-891a-4a945399818f.png)
 ![11](https://user-images.githubusercontent.com/46487696/116132619-5f389080-a6eb-11eb-9c35-e0f4775a1251.png)
+
+
+* Dictionaries
+  * Set()
+  * update()
+  * pop()
+  * get()
+
+![19](https://user-images.githubusercontent.com/46487696/116139415-9dd24900-a6f3-11eb-9479-d720f2539e7a.png)
+![18](https://user-images.githubusercontent.com/46487696/116139417-9f037600-a6f3-11eb-8a90-29a100a36e84.png)
+![17](https://user-images.githubusercontent.com/46487696/116139421-a034a300-a6f3-11eb-805b-1aed8f3078e9.png)
+![16](https://user-images.githubusercontent.com/46487696/116139425-a0cd3980-a6f3-11eb-887b-f98844ff8409.png)
+![15](https://user-images.githubusercontent.com/46487696/116139429-a165d000-a6f3-11eb-976e-a0439c50d3d7.png)
+![14](https://user-images.githubusercontent.com/46487696/116139433-a1fe6680-a6f3-11eb-9f42-992c68ee2e72.png)
+
+
