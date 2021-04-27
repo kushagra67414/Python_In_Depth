@@ -16,14 +16,17 @@
 *  For and While Loop
 
 
-## Day-2
+## Day-2:
 
-* Functions as Arguments
+
+### Functions as Arguments
 
 ![image](https://user-images.githubusercontent.com/46487696/116119353-f8f84180-a6db-11eb-8828-b09b49a1a154.png)
 ![6](https://user-images.githubusercontent.com/46487696/116119491-204f0e80-a6dc-11eb-8c98-e55ca09b97a9.png)
 
-* List
+
+
+###  List
   * Append
   * insert
   * replace
@@ -36,7 +39,7 @@
 
 
 
-* Tuple
+### Tuple
   * tuple to changeable list
   * len()
   * and much more
@@ -46,7 +49,9 @@
 ![11](https://user-images.githubusercontent.com/46487696/116132619-5f389080-a6eb-11eb-9c35-e0f4775a1251.png)
 
 
-* Dictionaries
+
+
+###  Dictionaries
   * Set()
   * update()
   * pop()
@@ -58,5 +63,18 @@
 ![16](https://user-images.githubusercontent.com/46487696/116139425-a0cd3980-a6f3-11eb-887b-f98844ff8409.png)
 ![15](https://user-images.githubusercontent.com/46487696/116139429-a165d000-a6f3-11eb-976e-a0439c50d3d7.png)
 ![14](https://user-images.githubusercontent.com/46487696/116139433-a1fe6680-a6f3-11eb-9f42-992c68ee2e72.png)
+
+
+
+## Day-3:
+
+### List Comprehension
+
+![5](https://user-images.githubusercontent.com/46487696/116193359-d8b49b00-a74c-11eb-9c7f-213d2fbeff7b.png)
+![4](https://user-images.githubusercontent.com/46487696/116193364-d9e5c800-a74c-11eb-8dd9-f1d5e457706c.png)
+![3](https://user-images.githubusercontent.com/46487696/116193365-da7e5e80-a74c-11eb-801e-a20951a66105.png)
+![2](https://user-images.githubusercontent.com/46487696/116193367-da7e5e80-a74c-11eb-9a9c-8e52b6d2660d.png)
+![1](https://user-images.githubusercontent.com/46487696/116193369-db16f500-a74c-11eb-8286-00613c055712.png)
+
 
 
