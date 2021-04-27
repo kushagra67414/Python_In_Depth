@@ -113,3 +113,39 @@ check-in your working directory, it is removed permanently
 
 
 
+### Debuuging
+
+![debugger 1](https://user-images.githubusercontent.com/46487696/116241519-9a39d300-a782-11eb-9975-ce9f4b55c6c9.png)
+![debugger 2](https://user-images.githubusercontent.com/46487696/116241727-db31e780-a782-11eb-9ba1-0fc935a62a13.png)
+
+
+Code =>
+
+```
+import random
+
+def Generatenumber(upper):
+    r = random.randint(1,upper)
+    return r
+
+def main():
+    program = True
+    num1 = Generatenumber(10)
+    num2 = Generatenumber(10)
+    result = num1*num2
+    while program:
+        ans = input("what is " + str(num1) + " x " + str(num2) + " = ")
+
+        if ans.isdigit():
+            if int(ans)==result:
+                print("Correct")
+                program= False
+            else:
+                print("Inaccurate")
+        else:
+            print("Answer must be positive")
+
+x =10
+for x in range(x):
+    main()
+```
