@@ -149,3 +149,27 @@ x =10
 for x in range(x):
     main()
 ```
+
+### Class and Objects
+
+A. Basic program of class and object
+
+![1](https://user-images.githubusercontent.com/46487696/116252744-7af47300-a78d-11eb-85e5-be01595cf2f2.png)
+
+B.Using "__init__" builtin method
+
+![2](https://user-images.githubusercontent.com/46487696/116252742-7a5bdc80-a78d-11eb-9b3d-f748fa8cb336.png)
+
+C. Using Self in parameters 
+
+![3](https://user-images.githubusercontent.com/46487696/116252741-79c34600-a78d-11eb-94ff-d2208cd27de6.png)
+
+D. overwriting the parameters value
+
+![4](https://user-images.githubusercontent.com/46487696/116252738-79c34600-a78d-11eb-97d5-e38df3f3ba32.png)
+
+E. Deleting an Object
+
+![5](https://user-images.githubusercontent.com/46487696/116252733-77f98280-a78d-11eb-9b35-490c3bc83ea1.png)
+
+
