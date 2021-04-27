@@ -78,3 +78,38 @@
 
 
 
+### File Handling
+
+A. Reading File
+
+![file2](https://user-images.githubusercontent.com/46487696/116201145-d0f9f400-a756-11eb-9d7b-6d6ccd0cb3b2.png)
+![file1](https://user-images.githubusercontent.com/46487696/116201153-d2c3b780-a756-11eb-96c2-5353fd19f80b.png)
+
+B. Reading file using if-else conditional
+
+![Reading through Loop](https://user-images.githubusercontent.com/46487696/116201266-f2f37680-a756-11eb-8ee7-221b8d196ac0.png)
+![file 3 1](https://user-images.githubusercontent.com/46487696/116201273-f4bd3a00-a756-11eb-9501-aaeb172b6541.png)
+
+C. Reading Each line of a File 
+
+![readiing line by line](https://user-images.githubusercontent.com/46487696/116201355-0acafa80-a757-11eb-98cb-458955efbc62.png)
+
+D. Writing on a file through console and Reading it
+
+![Opening and Writing](https://user-images.githubusercontent.com/46487696/116201528-351cb800-a757-11eb-8fe4-e3d0f97ea16c.png)
+![Opening and Writing 1](https://user-images.githubusercontent.com/46487696/116201520-33eb8b00-a757-11eb-9904-280c8560ca18.png)
+
+E. Creating a file and deleting it through console
+
+![Created new file](https://user-images.githubusercontent.com/46487696/116201622-4f569600-a757-11eb-8a53-4a76fd71baf1.png)
+![Removeing created file](https://user-images.githubusercontent.com/46487696/116201614-4e256900-a757-11eb-92dc-ccd8db4ec080.png)
+
+F. Removing Another file using If-else conditional
+
+![Removing using if-else](https://user-images.githubusercontent.com/46487696/116201716-701eeb80-a757-11eb-89da-4249dc4697a6.png)
+
+check-in your working directory, it is removed permanently
+![file is deleted](https://user-images.githubusercontent.com/46487696/116201709-6e552800-a757-11eb-92ed-d3e5d4cec5b2.png)
+
+
+
