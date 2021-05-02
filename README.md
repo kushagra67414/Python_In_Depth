@@ -270,3 +270,14 @@ for i in a:
 ```
 
 
+### ITERATIONS =>
+
+A. iterating use for loop and next() method
+
+![Screenshot (1652)](https://user-images.githubusercontent.com/46487696/116817241-fcc81000-ab82-11eb-9bf4-544046c79f06.png)
+
+
+B. iterating using **__iter__()** and **__next__()**
+
+![Screenshot (1653)](https://user-images.githubusercontent.com/46487696/116817245-ffc30080-ab82-11eb-9ea9-88945c7a46e4.png)
+
