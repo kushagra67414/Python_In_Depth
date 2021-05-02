@@ -281,3 +281,11 @@ B. iterating using **__iter__()** and **__next__()**
 
 ![Screenshot (1653)](https://user-images.githubusercontent.com/46487696/116817245-ffc30080-ab82-11eb-9ea9-88945c7a46e4.png)
 
+
+### Pickle
+
+Storing data in bytes
+
+![Screenshot (1655)](https://user-images.githubusercontent.com/46487696/116819494-e83d4500-ab8d-11eb-8f3a-ae53a309c909.png)
+![Screenshot (1656)](https://user-images.githubusercontent.com/46487696/116819497-ea9f9f00-ab8d-11eb-991f-047679cef486.png)
+
