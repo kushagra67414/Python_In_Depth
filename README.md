@@ -173,3 +173,24 @@ E. Deleting an Object
 ![5](https://user-images.githubusercontent.com/46487696/116252733-77f98280-a78d-11eb-9b35-490c3bc83ea1.png)
 
 
+
+## Day-4
+
+
+### Lambda Function
+
+A. Basic Lambda
+
+![Screenshot (1642)](https://user-images.githubusercontent.com/46487696/116811422-d1372c80-ab66-11eb-9c08-0e106be80d08.png)
+
+B. Function using lambda
+
+![Screenshot (1643)](https://user-images.githubusercontent.com/46487696/116811426-d300f000-ab66-11eb-8037-cc7c7989d671.png)
+
+C. Filter method
+
+![Screenshot (1644)](https://user-images.githubusercontent.com/46487696/116811427-d4321d00-ab66-11eb-9aa2-7697569b12aa.png)
+
+D. Mapping
+
+![Screenshot (1645)](https://user-images.githubusercontent.com/46487696/116811429-d5634a00-ab66-11eb-86d6-f129fc79714f.png)
