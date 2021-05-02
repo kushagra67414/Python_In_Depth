@@ -196,3 +196,13 @@ D. Mapping
 ![Screenshot (1645)](https://user-images.githubusercontent.com/46487696/116811429-d5634a00-ab66-11eb-86d6-f129fc79714f.png)
 
 
+ ### Read Excel data 
+ 
+ 1. First download xlrd package => "pip install xlrd"
+ 2. Create an excel sheet
+ 3. Follow the below code and set the path where excel sheet has been stored
+ 
+ ![Screenshot (1647)](https://user-images.githubusercontent.com/46487696/116813521-bcac6180-ab71-11eb-961c-a917df735b71.png)
+![Screenshot (1648)](https://user-images.githubusercontent.com/46487696/116813527-bf0ebb80-ab71-11eb-9568-8ace823d4939.png)
+
+ 
