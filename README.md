@@ -200,9 +200,16 @@ D. Mapping
  
  1. First download xlrd package => "pip install xlrd"
  2. Create an excel sheet
- 3. Follow the below code and set the path where excel sheet has been stored
+ 3. Follow the below code and set the path where the excel sheet has been stored
  
  ![Screenshot (1647)](https://user-images.githubusercontent.com/46487696/116813521-bcac6180-ab71-11eb-961c-a917df735b71.png)
 ![Screenshot (1648)](https://user-images.githubusercontent.com/46487696/116813527-bf0ebb80-ab71-11eb-9568-8ace823d4939.png)
 
  
+**Iterating the sheet row/column**
+
+![Screenshot (1649)](https://user-images.githubusercontent.com/46487696/116813778-24af7780-ab73-11eb-9d20-53f247cbcdeb.png)
+![Screenshot (1650)](https://user-images.githubusercontent.com/46487696/116813780-25480e00-ab73-11eb-8a6d-0822855023bf.png)
+
+
+
