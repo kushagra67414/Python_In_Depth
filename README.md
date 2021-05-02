@@ -243,3 +243,30 @@ db = mysql.connector.connect(
 )
 ```
 ![Screenshot (1651)](https://user-images.githubusercontent.com/46487696/116814767-0c8e2700-ab78-11eb-833c-cc0a0d5ed8bc.png)
+
+
+B. Execution of the table and List checking 
+
+```
+import mysql.connector
+
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="Kushagra@121",
+    database="python"
+)
+
+print(db)
+
+a = db.cursor()
+# mycursor.execute("CREATE DATABASE  python")
+a.execute("SHOW DATABASES")
+# mycursor.execute("SELECT * FROM python")
+
+
+for i in a:
+    print(i)
+```
+
+
