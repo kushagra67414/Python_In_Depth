@@ -194,3 +194,5 @@ C. Filter method
 D. Mapping
 
 ![Screenshot (1645)](https://user-images.githubusercontent.com/46487696/116811429-d5634a00-ab66-11eb-86d6-f129fc79714f.png)
+
+
