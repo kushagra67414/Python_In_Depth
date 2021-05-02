@@ -212,4 +212,18 @@ D. Mapping
 ![Screenshot (1650)](https://user-images.githubusercontent.com/46487696/116813780-25480e00-ab73-11eb-8a6d-0822855023bf.png)
 
 
+Source Code =>
+```
+import xlrd
 
+loc = ("C:\\Users\\Dell\\Desktop\\Python\\ExcelWorksheet.xlsx")
+
+wb = xlrd.open_workbook(loc)
+
+sheet = wb.sheet_by_index(0)
+
+print(sheet.cell_value(0,0))
+
+for i in range(sheet.ncols):
+    print(sheet.cell_value((0,i)))
+```
