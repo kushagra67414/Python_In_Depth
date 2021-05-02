@@ -227,3 +227,19 @@ print(sheet.cell_value(0,0))
 for i in range(sheet.ncols):
     print(sheet.cell_value((0,i)))
 ```
+
+
+### MySql
+
+A. Connecting localhost MySQL
+
+```
+import mysql.connector
+
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="Kushagra@121"
+)
+```
+![Screenshot (1651)](https://user-images.githubusercontent.com/46487696/116814767-0c8e2700-ab78-11eb-833c-cc0a0d5ed8bc.png)
